@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">diarioTrassierra</string>
+    <string name="textoInicial">Ayúdanos a mejorar nuestros servicios</string>
+    <string name="btnComenzar">COMENZAR</string>
+</resources>
