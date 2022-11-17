@@ -2,4 +2,20 @@
     <string name="app_name">diarioTrassierra</string>
     <string name="textoInicial">Ayúdanos a mejorar nuestros servicios</string>
     <string name="btnComenzar">COMENZAR</string>
+    <string name="datosSobreTi">Algunos datos sobre ti.</string>
+    <string name="edad">Edad</string>
+    <string name="Genero">Género:</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="otro">Otro</string>
+    <string-array name="lista">
+        <item>Jaen</item>
+        <item>Cordoba</item>
+        <item>Sevilla</item>
+        <item>Huelva</item>
+        <item>Cadiz</item>
+        <item>Malaga</item>
+        <item>Granada</item>
+        <item>Almeria</item>
+    </string-array>
 </resources>
