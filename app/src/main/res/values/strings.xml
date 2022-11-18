@@ -18,4 +18,5 @@
         <item>Granada</item>
         <item>Almeria</item>
     </string-array>
+    <string name="rb_opcion">Opcion de respuesta</string>
 </resources>
