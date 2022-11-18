@@ -19,4 +19,46 @@
         <item>Almeria</item>
     </string-array>
     <string name="rb_opcion">Opcion de respuesta</string>
+    <string name="pregunta">pregunta</string>
+    <string name="ver_respuestas">Ver respuestas</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="pregunta1">¿Cuanto tiempo llevas utilizando los productos/servicios de Diario de Trassierra?</string>
+    <string name="respuesta11">Menos de un mes</string>
+    <string name="respuesta12">Entre seis meses y un año</string>
+    <string name="respuesta13">Entre uno y tres años</string>
+    <string name="respuesta14">Mas de tres años</string>
+    <string name="pregunta2">¿Cómo conoció la pagina web de Diario de Trassierra?</string>
+    <string name="respuesta21">Radio</string>
+    <string name="respuesta22">Internet</string>
+    <string name="respuesta23">Nuestros productos de prensa y revistas</string>
+    <string name="pregunta3">¿Volvera a entrar en la pagina web de Diario de Trassierra de nuevo?</string>
+    <string name="respuesta31">Seguro que si</string>
+    <string name="respuesta32">Probablemente si</string>
+    <string name="respuesta33">Probablemente no</string>
+    <string name="respuesta34">Seguro que no</string>
+    <string name="pregunta4">¿Desde que dispositivo suele consultar nuestros servicios electronicos?</string>
+    <string name="respuesta41">Smartphone</string>
+    <string name="respuesta42">Tablet</string>
+    <string name="respuesta43">Ordenador personal</string>
+    <string name="respuesta44">Otros</string>
+    <string name="pregunta5">¿Estaría dispuesto a contratar una subscripción digital premium?</string>
+    <string name="respuesta51">No, no estoy dispuesto a pagar.</string>
+    <string name="respuesta52">Sí, estaría dispuesto a pagar entre 5 y 10 euros mensuales</string>
+    <string name="respuesta53">Sí, estaría dispuesto a pagar más de 10 euros mensuales</string>
+    <string name="respuesta54">No estoy seguro</string>
+    <string name="pregunta6">¿Que opina de nuestro servicio de subscripcion en formato papel?</string>
+    <string name="respuesta61">No lo utilizo, es un medio obsoleto que está condenado a desaparecer</string>
+    <string name="respuesta62">No lo utilizo, pero varias personas cercanas a mi siguen utilizando este formato</string>
+    <string name="respuesta63">Lo utilizo en ocasiones puntuales</string>
+    <string name="respuesta64">Lo utilizo a diario y me parece mucho mejor que el formato electrónico</string>
+    <string name="pregunta7">Por favor, indíquenos su grado de satisfacción general con la página web de Diario de Trassierra</string>
+    <string name="respuesta71">Mala</string>
+    <string name="respuesta72">Regular</string>
+    <string name="respuesta73">Buena</string>
+    <string name="respuesta74">Muy Buena</string>
+    <string name="pregunta8">¿Recomendaría los servicios de Diario de Trassierra a sus familiares o amigos?</string>
+    <string name="respuesta81">Seguro que si</string>
+    <string name="respuesta82">Probablemente si</string>
+    <string name="respuesta83">Probablemente no</string>
+    <string name="respuesta84">Seguro que no</string>
 </resources>
